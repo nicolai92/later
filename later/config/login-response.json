@@ -1,0 +1,66 @@
+{
+  "success": 1,
+  "authToken": "3D22FF7614A44F3689634617ABDA9446",
+  "name": "Ernst, Nicolai",
+  "gsskrz": "Y100",
+  "mNachmeldeSperre": "30.09.2018 00:00:00",
+  "mNachmeldeSperre2": "31.08.2019 00:00:00",
+  "config": {
+    "config": "BUMO=201912",
+    "scripts": [
+      "./resources/jspanel/jquery.jspanel.min.js?v=2.3.4",
+      "./resources/select2/select2.min.js?v=2.3.4",
+      "./resources/bootstrap/bootstrap.min.js?v=2.3.4",
+      "./resources/bootstrap-select/bootstrap-select.min.js?v=2.3.4",
+      "./resources/bootstrap-switch/bootstrap-switch.min.js?v=2.3.4",
+      "./resources/bootstrap-paginator/bootstrap-paginator.min.js?v=2.3.4",
+      "./script/procon.de.js?v=2.3.4",
+      "./script/sdk.js?v=2.3.4",
+      "./script/funktionen.js?v=2.3.4",
+      "./script/MBGrid.js?v=2.3.4",
+      "./script/MBRow.js?v=2.3.4",
+      "./script/MBColumn.js?v=2.3.4",
+      "./script/MBCell.js?v=2.3.4",
+      "./script/config.js?v=2.3.4",
+      "./script/network.js?v=2.3.4",
+      "./script/yearcalendar.js?v=2.3.4"
+    ],
+    "addons": [
+      "./script/MpgEditor.js?v=2.3.4",
+      "./script/AbwesEditor.js?v=2.3.4",
+      "./script/NotizEditor.js?v=2.3.4",
+      "./script/showHideTasksEditor.js?v=2.3.4",
+      "./script/showUnseenTasksEditor.js?v=2.3.4",
+      "./script/funkVerteilung.js?v=2.3.4",
+      "./script/funkFlightTickets.js?v=2.3.4",
+      "./script/UeAuszEditor.js?v=2.3.4",
+      "./script/funkOptionen.js?v=2.3.4",
+      "./script/showRowDetails.js?v=2.3.4",
+      "./script/reports.js?v=2.3.4"
+    ],
+    "styles": [
+      "./resources/jspanel/jquery.jspanel.css?v=2.3.4",
+      "./resources/select2/select2.min.css?v=2.3.4",
+      "./resources/bootstrap-select/bootstrap-select.min.css?v=2.3.4",
+      "./resources/bootstrap-switch/bootstrap-switch.min.css?v=2.3.4",
+      "./styles/styles.css?v=2.3.4",
+      "./styles/gridstyles.css?v=2.3.4",
+      "./styles/funkFlightTickets.css?v=2.3.4"
+    ],
+    "reports": {
+      "Funktionen": [
+        { "id": "repProjLEZuordn" },
+        { "id": "repGelStdnJeLE" },
+        { "id": "repUeStdn" },
+        { "id": "repUrlaub" },
+        { "id": "repMonatsbericht" }
+      ],
+      "Extras": [
+        { "id": "funkVerteilung" },
+        { "id": "funkFlightTickets" },
+        { "id": "funkOptionen" }
+      ],
+      "Help": []
+    }
+  }
+}

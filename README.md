@@ -12,7 +12,7 @@
 
 When working as a consultant, I sometimes have to record tasks on short notice that I need to work through during the day. This can for example include:
 
-- Sending out an important email in 2 hours
+- Send an important email in 2 hours
 - Fix a non-critical bug by the end of the day
 - Call a colleague back in 15 minutes
 - ...
